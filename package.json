@@ -1,0 +1,19 @@
+{
+  "name": "mosh-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel build src /index.html",
+    "build": "parcel build src /index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
